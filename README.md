@@ -1,3 +1,9 @@
+# next-i18n-graph-cms
+
+Basic example of Next JS with [Internationalized Routing](https://nextjs.org/docs/advanced-features/i18n-routing) and [GraphCMS](https://graphcms.com/)
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
